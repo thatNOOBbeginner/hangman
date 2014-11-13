@@ -6,7 +6,7 @@ Public Class Form1
     End Sub
 
     Private Sub Guesskeydown(sender As Object, e As KeyEventArgs) Handles TextBox1.KeyDown
-        'THIS SUB IS THE TEXT GUESS'
+        'THIS SUB IS THE TEXT GUEghghghghSS'
         If e.KeyCode = Keys.Enter Then
             currguess = TextBox1.Text
             TextBox1.Text = ""
